@@ -1,0 +1,3 @@
+Hi Everyone.
+
+If you see this, you've installed the repo correctly!
